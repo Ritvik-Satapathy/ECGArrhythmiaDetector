@@ -1,3 +1,0 @@
-/Users/ritviksatapathy/Documents/Dr. Sonkusale Work/ECGArrhythmiaProject/cmake-build-debug/CMakeFiles/ECGArrhythmiaProject_ContextAware.dir
-/Users/ritviksatapathy/Documents/Dr. Sonkusale Work/ECGArrhythmiaProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ritviksatapathy/Documents/Dr. Sonkusale Work/ECGArrhythmiaProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
